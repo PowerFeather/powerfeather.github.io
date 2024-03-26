@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "2.0.14-powerfeather",
           "category": "ESP32",
-          "url": "https://github.com/PowerFeather/arduino-esp32/archive/refs/tags/2.0.14-powerfeather.zip",
+          "url": "https://github.com/PowerFeather/arduino-esp32/releases/download/2.0.14-powerfeather/2.0.14-powerfeather.zip",
           "archiveFileName": "2.0.14-powerfeather.zip",
-          "checksum": "SHA-256:fc857b498975bbf936fd4dd671a743c9d985923127521b615234dfcf42508193",
-          "size": "264043985",
+          "checksum": "SHA-256:082d03933f49811183cb13eed86f1de21c3ea66750de4451a302240d55283f9a",
+          "size": "253351207",
           "help": {
             "online": ""
           },
