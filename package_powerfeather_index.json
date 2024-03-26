@@ -1,10 +1,10 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "powerfeatherdev",
+      "name": "PowerFeather Boards",
+      "maintainer": "PowerFeather",
       "websiteURL": "https://github.com/PowerFeather/arduino-esp32",
-      "email": "dev@powerfeather.dev",
+      "email": "mail@powerfeather.dev",
       "help": {
         "online": "https://forum.powerfeather.dev/c/help-support/6"
       },
