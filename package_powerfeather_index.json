@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "esp32",
+      "name": "esp32s3_powerfeather",
       "maintainer": "PowerFeather",
       "websiteURL": "https://github.com/PowerFeather/arduino-esp32",
       "email": "mail@powerfeather.dev",
