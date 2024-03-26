@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "ESP32-S3 PowerFeather",
+          "name": "esp32",
           "architecture": "esp32",
           "version": "2.0.14-powerfeather",
           "category": "ESP32",
